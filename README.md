@@ -10,15 +10,15 @@ The most impactful deep learning research papers **analyzed, summarized**, and *
 
 ## Paper List & Implementation Status
 
-### 🏗️ Convolutional Neural Networks (ConvNets or CNNs)
+### 🏗️ Convolutional Neural Networks
 - [ ] [LeNet-5 (1998)](ConvNets/LeNet5)
 - [ ] [AlexNet (2012)](ConvNets/AlexNet)
 - [ ] [VGG (2014)](ConvNets/VGG)
 - [ ] [GoogLeNet / Inception (2015)](ConvNets/Inception)
-- [⌛️] [ResNet (2015)](ConvNets/ResNet)
+- [ ] [ResNet (2015)](ConvNets/ResNet) ⌛️
 - [ ] [DenseNet (2016)](ConvNets/DenseNet)
 
-### 🔁 Sequence Models (RNNs & LSTMs)
+### 🔁 Sequence Models
 - [ ] [Vanilla RNNs](SequenceModels/RNN)
 - [ ] [LSTM (1997)](SequenceModels/LSTM)
 - [ ] [GRU (2014)](SequenceModels/GRU)
@@ -34,6 +34,6 @@ The most impactful deep learning research papers **analyzed, summarized**, and *
 ## Structure of Each Paper
 Every paper folder includes:
 - `README.md`: Summary and insights from the paper
-- `paper.pdf` *(if publicly available)*
+- `paper_name.pdf` *(if publicly available)*
 - `implementation.py`: From-scratch implementation
 - `notebook.ipynb`: Minimal example/demo (if applicable)
