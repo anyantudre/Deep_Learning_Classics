@@ -17,11 +17,14 @@ The most impactful deep learning research papers **analyzed, summarized**, and *
 - [ ] [GoogLeNet / Inception (2015)](ConvNets/Inception)
 - [ ] [ResNet (2015)](ConvNets/ResNet) ⌛️
 - [ ] [DenseNet (2016)](ConvNets/DenseNet)
+- [ ] [You Only Look Once (YOLO) (2016)](ConvNets/YOLO) ⌛️
+
 
 ### 🔁 Sequence Models
 - [ ] [Vanilla RNNs](SequenceModels/RNN)
 - [ ] [LSTM (1997)](SequenceModels/LSTM)
 - [ ] [GRU (2014)](SequenceModels/GRU)
+
 
 ### 🔮 Transformers & Attention
 - [ ] [Transformer (Vaswani et al. 2017)](Transformers/Transformer)
