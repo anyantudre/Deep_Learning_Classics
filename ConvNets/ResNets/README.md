@@ -50,7 +50,7 @@ Projection shortcuts offer only minor gains over identity shortcuts, making iden
     - `1×1` convolution (restores dimensions).
 If the **shortcut** uses a projection instead of identity, it **doubles** the model size and time complexity. Therefore, **identity shortcuts are favored** for efficiency, especially in **bottleneck structures**.
 
-<img src="img/ResNet_Paper_4.png" alt="ResNet meme" width="800" height="200"/>
+<img src="img/ResNet_Paper_4.png" alt="ResNet meme" width="800" height="300"/>
 
 
 ### Why it works?
@@ -67,7 +67,7 @@ When dimensions differ (e.g., due to increased channels), two options are consid
   - **Option B**: Use a **projection shortcut** via 1×1 convolutions to match dimensions (adds parameters).
 When shortcuts span feature maps of different sizes, they are applied with a **stride of 2**.
 
-<img src="img/ResNet_Paper_5.png" alt="ResNet meme" width="1000" height="600"/>
+<img src="img/ResNet_Paper_5.png" alt="ResNet meme" width="1000" height="700"/>
 
 Implementation Details (ImageNet):
 - **Data Augmentation**:
@@ -87,7 +87,7 @@ Implementation Details (ImageNet):
   - Weight decay: `0.0001`.
   - All plain and residual networks are **trained from scratch**.
 
-<img src="img/ResNet_Paper_2.png" alt="ResNet meme" width="600" height="400"/>
+<img src="img/ResNet_Paper_2.png" alt="ResNet meme" width="600" height="500"/>
 
 
 #### Common Misconceptions
