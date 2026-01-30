@@ -50,3 +50,6 @@ Every paper folder includes:
 
 #### Practice
 - [Deep-ML](https://www.deep-ml.com/)
+
+#### Hackathons platforms
+- [Codabench](https://www.codabench.org/)
