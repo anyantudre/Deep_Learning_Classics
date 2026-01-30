@@ -40,3 +40,13 @@ Every paper folder includes:
 - `paper_name.pdf` *(if publicly available)*
 - `implementation.py`: From-scratch implementation
 - `notebook.ipynb`: Minimal example/demo (if applicable)
+
+
+## Ressources
+#### Online Books
+- [Understanding Deep Learning (with notebooks & illustrations](https://udlbook.github.io/udlbook/)
+- [DEEP LEARNING with Python by François Chollet & Matthew Watson](https://deeplearningwithpython.io/)
+- [Dive into Deep Learning](https://d2l.ai/index.html)
+
+#### Practice
+- [Deep-ML](https://www.deep-ml.com/)
