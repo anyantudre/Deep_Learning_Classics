@@ -53,3 +53,4 @@ Every paper folder includes:
 
 #### Hackathons platforms
 - [Codabench](https://www.codabench.org/)
+- [TensorTonic ](https://www.tensortonic.com/)
